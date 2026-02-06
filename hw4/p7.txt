@@ -1,0 +1,2 @@
+signal voltage: 2.16v
+HIGH time: 100us
